@@ -11,7 +11,7 @@ import first from "../images/Group 2068.png";
 import second from "../images/Group 2018.png";
 const Sidebar = () => {
   return (
-    <div className="flex flex-col items-center justify-center relative mt-10">
+    <div className="hidden md:block flex flex-col items-center justify-center relative mt-10">
       <img src={profile} className="absolute top-0" />
       <div
         style={{ backgroundColor: "#EEF6EF" }}

@@ -128,7 +128,7 @@ const Mainbar = () => {
       </div>
       {visi && (
         <div
-          className="absolute top-10 right-0 min-h-[730px] w-[450px]"
+          className="absolute top-10 right-0 min-h-[730px] md:w-[450px]"
           style={{ background: "rgba(238, 246, 239, 1)" }}
         >
           <div className="min-h-[530px] flex flex-col gap-3 mt-20 ml-10">

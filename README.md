@@ -5,7 +5,7 @@
 #### Clone the repo
 
 ```bash
-git clone "repo url"
+git clone https://github.com/Sudhakar961612/Todo.git
 ```
 
 #### Install dependencies
